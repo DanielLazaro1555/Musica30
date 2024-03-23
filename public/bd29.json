@@ -108,5 +108,93 @@
     "album": "Fantastic Magic",
     "numero_de_pista": "10/10",
     "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274524_1.flac",
+    "descripcion": "198274524",
+    "imagen": "Albums/198274524.jpg",
+    "genero": "Rock",
+    "titulo": "Unravel (Acoustic Version)",
+    "artista": "TK from Ling tosite sigure",
+    "album": "unravel (acoustic version)",
+    "numero_de_pista": "1/1",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274525_1.flac",
+    "descripcion": "198274525",
+    "imagen": "Albums/198274525.jpg",
+    "genero": "Rock",
+    "titulo": "Katharsis",
+    "artista": "TK from Ling tosite sigure",
+    "album": "Katharsis",
+    "numero_de_pista": "1/4",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274525_2.flac",
+    "descripcion": "198274525",
+    "imagen": "Albums/198274525.jpg",
+    "genero": "Rock",
+    "titulo": "Memento",
+    "artista": "TK from Ling tosite sigure",
+    "album": "Katharsis",
+    "numero_de_pista": "2/4",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274525_3.flac",
+    "descripcion": "198274525",
+    "imagen": "Albums/198274525.jpg",
+    "genero": "Rock",
+    "titulo": "Katharsis (TV Edit)",
+    "artista": "TK from Ling tosite sigure",
+    "album": "Katharsis",
+    "numero_de_pista": "3/4",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274525_4.flac",
+    "descripcion": "198274525",
+    "imagen": "Albums/198274525.jpg",
+    "genero": "Rock",
+    "titulo": "Katharsis (Instrumental)",
+    "artista": "TK from Ling tosite sigure",
+    "album": "Katharsis",
+    "numero_de_pista": "4/4",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274526_1.flac",
+    "descripcion": "198274526",
+    "imagen": "Albums/198274526.jpg",
+    "genero": "Anime",
+    "titulo": "Munō",
+    "artista": "osterreich",
+    "album": "Munō",
+    "numero_de_pista": "1/3",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274526_2.flac",
+    "descripcion": "198274526",
+    "imagen": "Albums/198274526.jpg",
+    "genero": "Anime",
+    "titulo": "Joudan",
+    "artista": "osterreich",
+    "album": "Munō",
+    "numero_de_pista": "2/3",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274526_3.flac",
+    "descripcion": "198274526",
+    "imagen": "Albums/198274526.jpg",
+    "genero": "Anime",
+    "titulo": "Guide Beacon",
+    "artista": "osterreich",
+    "album": "Munō",
+    "numero_de_pista": "3/3",
+    "Año": "2015"
   }
 ]
