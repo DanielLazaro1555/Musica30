@@ -1,3 +1,112 @@
 [
-    
+  {
+    "archivo_musica": "Albums/198274523_1.flac",
+    "descripcion": "198274523",
+    "imagen": "Albums/198274523.jpg",
+    "genero": "Rock",
+    "titulo": "Fantastic Magic",
+    "artista": "TK from Ling tosite sigure",
+    "album": "Fantastic Magic",
+    "numero_de_pista": "1/10",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274523_2.flac",
+    "descripcion": "198274523",
+    "imagen": "Albums/198274523.jpg",
+    "genero": "Rock",
+    "titulo": "Unravel",
+    "artista": "TK from Ling tosite sigure",
+    "album": "Fantastic Magic",
+    "numero_de_pista": "2/10",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274523_3.flac",
+    "descripcion": "198274523",
+    "imagen": "Albums/198274523.jpg",
+    "genero": "Rock",
+    "titulo": "Kalei De Scope",
+    "artista": "TK from Ling tosite sigure",
+    "album": "Fantastic Magic",
+    "numero_de_pista": "3/10",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274523_4.flac",
+    "descripcion": "198274523",
+    "imagen": "Albums/198274523.jpg",
+    "genero": "Rock",
+    "titulo": "An Artist",
+    "artista": "TK from Ling tosite sigure",
+    "album": "Fantastic Magic",
+    "numero_de_pista": "4/10",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274523_5.flac",
+    "descripcion": "198274523",
+    "imagen": "Albums/198274523.jpg",
+    "genero": "Rock",
+    "titulo": "Tokio",
+    "artista": "TK from Ling tosite sigure",
+    "album": "Fantastic Magic",
+    "numero_de_pista": "5/10",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274523_6.flac",
+    "descripcion": "198274523",
+    "imagen": "Albums/198274523.jpg",
+    "genero": "Rock",
+    "titulo": "Shinkiro",
+    "artista": "TK from Ling tosite sigure",
+    "album": "Fantastic Magic",
+    "numero_de_pista": "6/10",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274523_7.flac",
+    "descripcion": "198274523",
+    "imagen": "Albums/198274523.jpg",
+    "genero": "Rock",
+    "titulo": "Dramatic Slow Motion",
+    "artista": "TK from Ling tosite sigure",
+    "album": "Fantastic Magic",
+    "numero_de_pista": "7/10",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274523_8.flac",
+    "descripcion": "198274523",
+    "imagen": "Albums/198274523.jpg",
+    "genero": "Rock",
+    "titulo": "Spiral Parade",
+    "artista": "TK from Ling tosite sigure",
+    "album": "Fantastic Magic",
+    "numero_de_pista": "8/10",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274523_9.flac",
+    "descripcion": "198274523",
+    "imagen": "Albums/198274523.jpg",
+    "genero": "Rock",
+    "titulo": "Fragile",
+    "artista": "TK from Ling tosite sigure",
+    "album": "Fantastic Magic",
+    "numero_de_pista": "9/10",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274523_10.flac",
+    "descripcion": "198274523",
+    "imagen": "Albums/198274523.jpg",
+    "genero": "Rock",
+    "titulo": "Contrast",
+    "artista": "TK from Ling tosite sigure",
+    "album": "Fantastic Magic",
+    "numero_de_pista": "10/10",
+    "Año": "2014"
+  }
 ]
