@@ -372,5 +372,38 @@
     "album": "Boroboro na Ikizama.",
     "numero_de_pista": "16/16",
     "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274528_1.flac",
+    "descripcion": "198274528",
+    "imagen": "Albums/198274528.jpg",
+    "genero": "Alternative",
+    "titulo": "「70cm Shiho no Madobe」",
+    "artista": "ROTTENGRAFFTY",
+    "album": "「70cm Shiho no Madobe」",
+    "numero_de_pista": "1/3",
+    "Año": "2017"
+  },
+  {
+    "archivo_musica": "Albums/198274528_2.flac",
+    "descripcion": "198274528",
+    "imagen": "Albums/198274528.jpg",
+    "genero": "Alternative",
+    "titulo": "SHRED",
+    "artista": "ROTTENGRAFFTY",
+    "album": "「70cm Shiho no Madobe」",
+    "numero_de_pista": "2/3",
+    "Año": "2017"
+  },
+  {
+    "archivo_musica": "Albums/198274528_3.flac",
+    "descripcion": "198274528",
+    "imagen": "Albums/198274528.jpg",
+    "genero": "Alternative",
+    "titulo": "PORNO ULTRA EXPRESS",
+    "artista": "ROTTENGRAFFTY",
+    "album": "「70cm Shiho no Madobe」",
+    "numero_de_pista": "3/3",
+    "Año": "2017"
   }
 ]
