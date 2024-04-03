@@ -405,5 +405,16 @@
     "album": "「70cm Shiho no Madobe」",
     "numero_de_pista": "3/3",
     "Año": "2017"
+  },
+  {
+    "archivo_musica": "Albums/198274529_1.flac",
+    "descripcion": "198274529",
+    "imagen": "Albums/198274529.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Castle",
+    "artista": "Clarx & Harddope",
+    "album": "Castle",
+    "numero_de_pista": "1/1",
+    "Año": "2020"
   }
 ]
