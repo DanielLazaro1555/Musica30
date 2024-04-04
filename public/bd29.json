@@ -416,5 +416,16 @@
     "album": "Castle",
     "numero_de_pista": "1/1",
     "Año": "2020"
+  },
+  {
+    "archivo_musica": "Albums/198274530_1.flac",
+    "descripcion": "198274530",
+    "imagen": "Albums/198274530.jpg",
+    "genero": "Dance",
+    "titulo": "Holystone",
+    "artista": "Phantom Sage",
+    "album": "Holystone ",
+    "numero_de_pista": "1/1",
+    "Año": "2022"
   }
 ]
