@@ -427,5 +427,27 @@
     "album": "Holystone ",
     "numero_de_pista": "1/1",
     "Año": "2022"
+  },
+  {
+    "archivo_musica": "Albums/198274531_1.flac",
+    "descripcion": "198274531",
+    "imagen": "Albums/198274531.jpg",
+    "genero": "Electronic",
+    "titulo": "Valientes (feat. Brosste Moor)",
+    "artista": "Brosste Moor, Lujavo",
+    "album": "Valientes (feat. Brosste Moor)",
+    "numero_de_pista": "1/1",
+    "Año": "2016"
+  },
+  {
+    "archivo_musica": "Albums/198274532_1.flac",
+    "descripcion": "198274532",
+    "imagen": "Albums/198274532.jpg",
+    "genero": "Drum & Bass",
+    "titulo": "Get Down Tonight",
+    "artista": "Delta Heavy, Hayley May",
+    "album": "Get Down Tonight",
+    "numero_de_pista": "1/1",
+    "Año": "2023"
   }
 ]
